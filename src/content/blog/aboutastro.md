@@ -13,3 +13,4 @@ and i love the sipmle comand line to and any framework or lib for example
 npm astro add tailwnd 
 ```
 very simple amd config it's seilf !!
+<img src="public/frame 3.png"> 
