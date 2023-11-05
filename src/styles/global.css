@@ -29,7 +29,7 @@ h5,
 h6,
 strong,
 b {
-	color: #222;
+	color: #d1d1d1;
 }
 a {
 	color: #3273dc;
@@ -66,9 +66,11 @@ pre > code {
 }
 blockquote {
 	border: 1px solid #b4b4b4;
-	color: #222;
+	color: #c7c7c7;
 	padding: 2px 0px 2px 20px;
 	margin: 0px;
 	font-style: italic;
 }
-
+a:hover {
+	text-decoration: underline;
+}
