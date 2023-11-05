@@ -60,9 +60,12 @@ code {
 }
 pre {
 	padding: 1rem;
+	background-color: #181818;
+	border-radius: 20px;
 }
 pre > code {
 	all: unset;
+    border-radius:20px;
 }
 blockquote {
 	border: 1px solid #b4b4b4;
