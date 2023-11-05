@@ -3,3 +3,5 @@
 
 export const SITE_TITLE = 'vizkex personal Blog';
 export const SITE_DESCRIPTION = 'I write here what i want :P';
+export const HOME_TITLE = 'Home';
+export const BLOG_TITLE = 'BLOG';
